@@ -22,10 +22,10 @@ export PATH=\$PATH:\$ANDROID_HOME/platform-tools
 "
 
 if [-f file="~/.zshrc"] then
-	pathvar >> ~/.zshrc
+	echo pathvar >> ~/.zshrc
 	source ~/.zshrc
 else
-	pathvar >> ~/.bashrc
+	echo pathvar >> ~/.bashrc
 	source ~/.bashrc
 fi
 
