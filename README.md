@@ -32,6 +32,14 @@ On terminal type:
 emulator
 ```
 
+## See Also
+
+- [Alpine Android](https://github.com/alvr/alpine-android)
+
+- [min-alpine-android-sdk](https://github.com/tabrindle/min-alpine-android-sdk)
+
+- [jessfraz/dockerfiles/android-tools](https://github.com/jessfraz/dockerfiles)
+
 ## License
 
 [GNU General Public License v3.0](LICENSE)
